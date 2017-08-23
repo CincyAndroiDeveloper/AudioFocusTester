@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioFocusTester</string>
+    <string-array name="focus_states">
+        <item>AUDIOFOCUS_GAIN</item>
+        <item>AUDIOFOCUS_GAIN_TRANSIENT</item>
+        <item>AUDIOFOCUS_GAIN_TRANSIENT_MAY_DUCK</item>
+        <item>AUDIOFOCUS_GAIN_TRANSIENT_EXCLUSIVE</item>
+    </string-array>
+</resources>
